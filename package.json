@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "dompurify": "^3.4.13",
+    "markd": "^1.2.0"
+  }
+}

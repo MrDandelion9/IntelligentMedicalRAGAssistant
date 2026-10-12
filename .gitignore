@@ -1,0 +1,32 @@
+# IDE
+.idea/
+*.iml
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# 依赖
+node_modules/
+
+# 日志
+logs/
+*.log
+
+# 数据
+medical_datasets/
+create_datas/
+*.bin
+*.pickle
+*.pkl
+*.pt
+
+# Claude
+.claude/
+
+# 环境变量
+.env
+.env.*
